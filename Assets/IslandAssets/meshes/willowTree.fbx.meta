@@ -1,0 +1,534 @@
+fileFormatVersion: 2
+guid: 2eb6d5b2306101a4f8e77b69f7259d64
+timeCreated: 1454208115
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: a
+    100004: asdf
+    100006: b
+    100008: BranchSet1
+    100010: BranchSetup1
+    100012: d
+    100014: e
+    100016: ert
+    100018: f
+    100020: fgh
+    100022: g
+    100024: h
+    100026: j
+    100028: k
+    100030: l
+    100032: n
+    100034: q
+    100036: qwer
+    100038: r
+    100040: rtyu
+    100042: s
+    100044: vine
+    100046: vine1
+    100048: vine2
+    100050: vine3
+    100052: vine4
+    100054: vine5
+    100056: vine52
+    100058: vine_wStick1
+    100060: vines
+    100062: w
+    100064: BranchClusterings1
+    100066: BranchClusterings10
+    100068: BranchClusterings11
+    100070: BranchClusterings12
+    100072: BranchClusterings13
+    100074: BranchClusterings14
+    100076: BranchClusterings15
+    100078: BranchClusterings16
+    100080: BranchClusterings17
+    100082: BranchClusterings18
+    100084: BranchClusterings19
+    100086: BranchClusterings2
+    100088: BranchClusterings3
+    100090: BranchClusterings4
+    100092: BranchClusterings5
+    100094: BranchClusterings6
+    100096: BranchClusterings7
+    100098: BranchClusterings8
+    100100: BranchClusterings9
+    100102: BranchClusterings20
+    100104: BranchClusterings22
+    100106: BranchClusterings23
+    100108: BranchClusterings24
+    100110: BranchClusters
+    100112: BranchOrbs
+    100114: pasted__BranchOrbs1
+    100116: pasted__BranchOrbs10
+    100118: pasted__BranchOrbs11
+    100120: pasted__BranchOrbs12
+    100122: pasted__BranchOrbs13
+    100124: pasted__BranchOrbs14
+    100126: pasted__BranchOrbs15
+    100128: pasted__BranchOrbs2
+    100130: pasted__BranchOrbs3
+    100132: pasted__BranchOrbs4
+    100134: pasted__BranchOrbs5
+    100136: pasted__BranchOrbs6
+    100138: pasted__BranchOrbs7
+    100140: pasted__BranchOrbs8
+    100142: pasted__BranchOrbs9
+    100144: BranchClusterings25
+    100146: pasted__BranchOrbs16
+    100148: pasted__BranchOrbs17
+    100150: pasted__BranchOrbs18
+    100152: pasted__BranchOrbs19
+    100154: pasted__BranchOrbs20
+    100156: pasted__BranchOrbs21
+    100158: BranchClusterings26
+    100160: BranchOrbs_under
+    100162: pasted__BranchOrbs10 1
+    100164: pasted__BranchOrbs11 1
+    100166: pasted__BranchOrbs12 1
+    100168: pasted__BranchOrbs13 1
+    100170: pasted__BranchOrbs14 1
+    100172: pasted__BranchOrbs2 1
+    100174: pasted__BranchOrbs20 1
+    100176: pasted__BranchOrbs21 1
+    100178: pasted__BranchOrbs3 1
+    100180: pasted__BranchOrbs4 1
+    100182: pasted__BranchOrbs6 1
+    100184: pasted__BranchOrbs7 1
+    100186: pasted__BranchOrbs8 1
+    100188: pasted__BranchOrbs9 1
+    100190: willowTree_uvs
+    400000: //RootNode
+    400002: a
+    400004: asdf
+    400006: b
+    400008: BranchSet1
+    400010: BranchSetup1
+    400012: d
+    400014: e
+    400016: ert
+    400018: f
+    400020: fgh
+    400022: g
+    400024: h
+    400026: j
+    400028: k
+    400030: l
+    400032: n
+    400034: q
+    400036: qwer
+    400038: r
+    400040: rtyu
+    400042: s
+    400044: vine
+    400046: vine1
+    400048: vine2
+    400050: vine3
+    400052: vine4
+    400054: vine5
+    400056: vine52
+    400058: vine_wStick1
+    400060: vines
+    400062: w
+    400064: BranchClusterings1
+    400066: BranchClusterings10
+    400068: BranchClusterings11
+    400070: BranchClusterings12
+    400072: BranchClusterings13
+    400074: BranchClusterings14
+    400076: BranchClusterings15
+    400078: BranchClusterings16
+    400080: BranchClusterings17
+    400082: BranchClusterings18
+    400084: BranchClusterings19
+    400086: BranchClusterings2
+    400088: BranchClusterings3
+    400090: BranchClusterings4
+    400092: BranchClusterings5
+    400094: BranchClusterings6
+    400096: BranchClusterings7
+    400098: BranchClusterings8
+    400100: BranchClusterings9
+    400102: BranchClusterings20
+    400104: BranchClusterings22
+    400106: BranchClusterings23
+    400108: BranchClusterings24
+    400110: BranchClusters
+    400112: BranchOrbs
+    400114: pasted__BranchOrbs1
+    400116: pasted__BranchOrbs10
+    400118: pasted__BranchOrbs11
+    400120: pasted__BranchOrbs12
+    400122: pasted__BranchOrbs13
+    400124: pasted__BranchOrbs14
+    400126: pasted__BranchOrbs15
+    400128: pasted__BranchOrbs2
+    400130: pasted__BranchOrbs3
+    400132: pasted__BranchOrbs4
+    400134: pasted__BranchOrbs5
+    400136: pasted__BranchOrbs6
+    400138: pasted__BranchOrbs7
+    400140: pasted__BranchOrbs8
+    400142: pasted__BranchOrbs9
+    400144: BranchClusterings25
+    400146: pasted__BranchOrbs16
+    400148: pasted__BranchOrbs17
+    400150: pasted__BranchOrbs18
+    400152: pasted__BranchOrbs19
+    400154: pasted__BranchOrbs20
+    400156: pasted__BranchOrbs21
+    400158: BranchClusterings26
+    400160: BranchOrbs_under
+    400162: pasted__BranchOrbs10 1
+    400164: pasted__BranchOrbs11 1
+    400166: pasted__BranchOrbs12 1
+    400168: pasted__BranchOrbs13 1
+    400170: pasted__BranchOrbs14 1
+    400172: pasted__BranchOrbs2 1
+    400174: pasted__BranchOrbs20 1
+    400176: pasted__BranchOrbs21 1
+    400178: pasted__BranchOrbs3 1
+    400180: pasted__BranchOrbs4 1
+    400182: pasted__BranchOrbs6 1
+    400184: pasted__BranchOrbs7 1
+    400186: pasted__BranchOrbs8 1
+    400188: pasted__BranchOrbs9 1
+    400190: willowTree_uvs
+    2300000: //RootNode
+    2300002: a
+    2300004: asdf
+    2300006: b
+    2300008: d
+    2300010: e
+    2300012: ert
+    2300014: f
+    2300016: fgh
+    2300018: g
+    2300020: h
+    2300022: j
+    2300024: k
+    2300026: l
+    2300028: n
+    2300030: q
+    2300032: qwer
+    2300034: r
+    2300036: rtyu
+    2300038: s
+    2300040: vine
+    2300042: vine1
+    2300044: vine2
+    2300046: vine3
+    2300048: vine4
+    2300050: vine5
+    2300052: vine52
+    2300054: vine_wStick1
+    2300056: w
+    2300058: BranchClusterings1
+    2300060: BranchClusterings10
+    2300062: BranchClusterings11
+    2300064: BranchClusterings12
+    2300066: BranchClusterings13
+    2300068: BranchClusterings14
+    2300070: BranchClusterings15
+    2300072: BranchClusterings16
+    2300074: BranchClusterings17
+    2300076: BranchClusterings18
+    2300078: BranchClusterings19
+    2300080: BranchClusterings2
+    2300082: BranchClusterings3
+    2300084: BranchClusterings4
+    2300086: BranchClusterings5
+    2300088: BranchClusterings6
+    2300090: BranchClusterings7
+    2300092: BranchClusterings8
+    2300094: BranchClusterings9
+    2300096: BranchClusterings20
+    2300098: BranchClusterings22
+    2300100: BranchClusterings23
+    2300102: BranchClusterings24
+    2300104: pasted__BranchOrbs1
+    2300106: pasted__BranchOrbs10
+    2300108: pasted__BranchOrbs11
+    2300110: pasted__BranchOrbs12
+    2300112: pasted__BranchOrbs13
+    2300114: pasted__BranchOrbs14
+    2300116: pasted__BranchOrbs15
+    2300118: pasted__BranchOrbs2
+    2300120: pasted__BranchOrbs3
+    2300122: pasted__BranchOrbs4
+    2300124: pasted__BranchOrbs5
+    2300126: pasted__BranchOrbs6
+    2300128: pasted__BranchOrbs7
+    2300130: pasted__BranchOrbs8
+    2300132: pasted__BranchOrbs9
+    2300134: BranchClusterings25
+    2300136: pasted__BranchOrbs16
+    2300138: pasted__BranchOrbs17
+    2300140: pasted__BranchOrbs18
+    2300142: pasted__BranchOrbs19
+    2300144: pasted__BranchOrbs20
+    2300146: pasted__BranchOrbs21
+    2300148: BranchClusterings26
+    2300150: pasted__BranchOrbs10 1
+    2300152: pasted__BranchOrbs11 1
+    2300154: pasted__BranchOrbs12 1
+    2300156: pasted__BranchOrbs13 1
+    2300158: pasted__BranchOrbs14 1
+    2300160: pasted__BranchOrbs2 1
+    2300162: pasted__BranchOrbs20 1
+    2300164: pasted__BranchOrbs21 1
+    2300166: pasted__BranchOrbs3 1
+    2300168: pasted__BranchOrbs4 1
+    2300170: pasted__BranchOrbs6 1
+    2300172: pasted__BranchOrbs7 1
+    2300174: pasted__BranchOrbs8 1
+    2300176: pasted__BranchOrbs9 1
+    2300178: willowTree_uvs
+    3300000: //RootNode
+    3300002: a
+    3300004: asdf
+    3300006: b
+    3300008: d
+    3300010: e
+    3300012: ert
+    3300014: f
+    3300016: fgh
+    3300018: g
+    3300020: h
+    3300022: j
+    3300024: k
+    3300026: l
+    3300028: n
+    3300030: q
+    3300032: qwer
+    3300034: r
+    3300036: rtyu
+    3300038: s
+    3300040: vine
+    3300042: vine1
+    3300044: vine2
+    3300046: vine3
+    3300048: vine4
+    3300050: vine5
+    3300052: vine52
+    3300054: vine_wStick1
+    3300056: w
+    3300058: BranchClusterings1
+    3300060: BranchClusterings10
+    3300062: BranchClusterings11
+    3300064: BranchClusterings12
+    3300066: BranchClusterings13
+    3300068: BranchClusterings14
+    3300070: BranchClusterings15
+    3300072: BranchClusterings16
+    3300074: BranchClusterings17
+    3300076: BranchClusterings18
+    3300078: BranchClusterings19
+    3300080: BranchClusterings2
+    3300082: BranchClusterings3
+    3300084: BranchClusterings4
+    3300086: BranchClusterings5
+    3300088: BranchClusterings6
+    3300090: BranchClusterings7
+    3300092: BranchClusterings8
+    3300094: BranchClusterings9
+    3300096: BranchClusterings20
+    3300098: BranchClusterings22
+    3300100: BranchClusterings23
+    3300102: BranchClusterings24
+    3300104: pasted__BranchOrbs1
+    3300106: pasted__BranchOrbs10
+    3300108: pasted__BranchOrbs11
+    3300110: pasted__BranchOrbs12
+    3300112: pasted__BranchOrbs13
+    3300114: pasted__BranchOrbs14
+    3300116: pasted__BranchOrbs15
+    3300118: pasted__BranchOrbs2
+    3300120: pasted__BranchOrbs3
+    3300122: pasted__BranchOrbs4
+    3300124: pasted__BranchOrbs5
+    3300126: pasted__BranchOrbs6
+    3300128: pasted__BranchOrbs7
+    3300130: pasted__BranchOrbs8
+    3300132: pasted__BranchOrbs9
+    3300134: BranchClusterings25
+    3300136: pasted__BranchOrbs16
+    3300138: pasted__BranchOrbs17
+    3300140: pasted__BranchOrbs18
+    3300142: pasted__BranchOrbs19
+    3300144: pasted__BranchOrbs20
+    3300146: pasted__BranchOrbs21
+    3300148: BranchClusterings26
+    3300150: pasted__BranchOrbs10 1
+    3300152: pasted__BranchOrbs11 1
+    3300154: pasted__BranchOrbs12 1
+    3300156: pasted__BranchOrbs13 1
+    3300158: pasted__BranchOrbs14 1
+    3300160: pasted__BranchOrbs2 1
+    3300162: pasted__BranchOrbs20 1
+    3300164: pasted__BranchOrbs21 1
+    3300166: pasted__BranchOrbs3 1
+    3300168: pasted__BranchOrbs4 1
+    3300170: pasted__BranchOrbs6 1
+    3300172: pasted__BranchOrbs7 1
+    3300174: pasted__BranchOrbs8 1
+    3300176: pasted__BranchOrbs9 1
+    3300178: willowTree_uvs
+    4300000: WillowTree
+    4300002: willowTree
+    4300004: vine_wStick1
+    4300006: vine
+    4300008: vine1
+    4300010: vine2
+    4300012: vine3
+    4300014: vine4
+    4300016: vine5
+    4300018: vine52
+    4300020: a
+    4300022: s
+    4300024: d
+    4300026: f
+    4300028: q
+    4300030: w
+    4300032: e
+    4300034: qwer
+    4300036: asdf
+    4300038: fgh
+    4300040: ert
+    4300042: rtyu
+    4300044: l
+    4300046: k
+    4300048: j
+    4300050: h
+    4300052: g
+    4300054: n
+    4300056: b
+    4300058: r
+    4300060: BranchClusterings1
+    4300062: BranchClusterings2
+    4300064: BranchClusterings3
+    4300066: BranchClusterings4
+    4300068: BranchClusterings5
+    4300070: BranchClusterings6
+    4300072: BranchClusterings7
+    4300074: BranchClusterings8
+    4300076: BranchClusterings9
+    4300078: BranchClusterings10
+    4300080: BranchClusterings11
+    4300082: BranchClusterings12
+    4300084: BranchClusterings13
+    4300086: BranchClusterings14
+    4300088: BranchClusterings15
+    4300090: BranchClusterings16
+    4300092: BranchClusterings17
+    4300094: BranchClusterings18
+    4300096: BranchClusterings19
+    4300098: BranchClusterings22
+    4300100: BranchClusterings20
+    4300102: pasted__BranchOrbs5
+    4300104: BranchClusterings23
+    4300106: BranchClusterings24
+    4300108: pasted__BranchOrbs1
+    4300110: pasted__BranchOrbs15
+    4300112: pasted__BranchOrbs7
+    4300114: pasted__BranchOrbs8
+    4300116: pasted__BranchOrbs9
+    4300118: pasted__BranchOrbs10
+    4300120: pasted__BranchOrbs11
+    4300122: pasted__BranchOrbs12
+    4300124: pasted__BranchOrbs13
+    4300126: pasted__BranchOrbs14
+    4300128: pasted__BranchOrbs2
+    4300130: pasted__BranchOrbs3
+    4300132: pasted__BranchOrbs4
+    4300134: pasted__BranchOrbs6
+    4300136: BranchClusterings25
+    4300138: pasted__BranchOrbs16
+    4300140: pasted__BranchOrbs17
+    4300142: pasted__BranchOrbs18
+    4300144: pasted__BranchOrbs19
+    4300146: pasted__BranchOrbs20
+    4300148: pasted__BranchOrbs21
+    4300150: willowTree_uvs
+    4300152: BranchClusterings26
+    4300154: pasted__BranchOrbs7
+    4300156: pasted__BranchOrbs8
+    4300158: pasted__BranchOrbs9
+    4300160: pasted__BranchOrbs10
+    4300162: pasted__BranchOrbs11
+    4300164: pasted__BranchOrbs12
+    4300166: pasted__BranchOrbs13
+    4300168: pasted__BranchOrbs14
+    4300170: pasted__BranchOrbs2
+    4300172: pasted__BranchOrbs3
+    4300174: pasted__BranchOrbs4
+    4300176: pasted__BranchOrbs6
+    4300178: pasted__BranchOrbs20
+    4300180: pasted__BranchOrbs21
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
